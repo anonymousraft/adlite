@@ -1,0 +1,9 @@
+vendor/
+.env
+composer.lock
+database_design
+.vscode/
+.okta.env
+node_modules/
+LocalValetDriver.php
+package-lock.json

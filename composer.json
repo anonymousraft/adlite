@@ -1,0 +1,22 @@
+{
+    "name": "hitendra/adlite",
+    "autoload": {
+       "psr-4": {
+           "Inc\\": "./inc"
+       }
+    },
+    "authors": [
+        {
+            "name": "Hitendra Rathore",
+            "email": "hitendra1995@gmail.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.3.7.2",
+        "vlucas/phpdotenv": "^5.3",
+        "guzzlehttp/psr7": "^2.0",
+        "mailgun/mailgun-php": "^3.5",
+        "kriswallsmith/buzz": "^1.2",
+        "nyholm/psr7": "^1.4"
+    }
+}

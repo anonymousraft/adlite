@@ -1,0 +1,12 @@
+.main {
+
+
+
+    &__head {
+        display: flex;
+        min-height: 35vh;
+        background-color: $primary-color;
+    }
+
+    &__content {}
+}
